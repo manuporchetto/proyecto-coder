@@ -290,7 +290,7 @@ aside {
     }
 
     .portada {
-        height: 50vh;
+        height: 60vh;
         display: flex;
         flex-direction: column;
         justify-content: start;
@@ -317,6 +317,7 @@ aside {
         grid-template-columns: repeat(4, 25%);
         grid-template-rows: repeat(4, 25%);
         align-content: center;
+        margin-top: 5%;
     }
 
     .footer__titulo {
